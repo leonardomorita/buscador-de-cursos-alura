@@ -40,5 +40,6 @@
     },
     "scripts-descriptions": {
         "check": "Comando que faz as seguintes funcionalidades: PHAN, CS, UNIT"
-    }
+    },
+    "bin": ["buscador-cursos.php"]
 }
